@@ -21,7 +21,7 @@ Each directory contains a questions and the related answers and necesary source 
 ## Git tags
 
 In order to help to organize the repositorie, each answers can be marked with a specific tag indicating language and programming-language.
-Some tags example are 'java', 'powershell', 'javascript', 'python', 'español', 'ingles', etc.
+Some tags example are 'java', 'powershell', 'javascript', 'python', 'español', 'english', etc.
 
 ## Licencia
 
